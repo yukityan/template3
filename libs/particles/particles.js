@@ -1,5 +1,5 @@
 let particles = document.querySelectorAll('.particles'),
-		radius = 1.35,
+		radius = 2,
 		number = 100
 
 particles.forEach(node => {
